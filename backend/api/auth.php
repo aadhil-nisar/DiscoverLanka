@@ -1,15 +1,4 @@
 <?php
-// ============================================================
-// backend/api/auth.php
-// POST /api/auth.php?action=register
-// POST /api/auth.php?action=verify_email
-// POST /api/auth.php?action=resend_verification
-// POST /api/auth.php?action=login
-// POST /api/auth.php?action=logout
-// POST /api/auth.php?action=forgot_password
-// POST /api/auth.php?action=reset_password
-// GET  /api/auth.php?action=me
-// ============================================================
 
 // Global error handler: always return clean JSON, never raw PHP errors
 set_exception_handler(function(Throwable $e) {
