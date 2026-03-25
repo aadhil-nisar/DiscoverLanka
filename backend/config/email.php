@@ -4,11 +4,6 @@ define('ADMIN_EMAIL', 'aadhilnisar1616@gmail.com');   // <-- Change to your emai
 define('SITE_NAME',   'DiscoverLanka');
 define('SITE_URL',    'http://localhost/DiscoverLanka'); // <-- Change to your URL
 
-/**
- * Send an email using PHP mail()
- * On XAMPP/WAMP you need to configure php.ini SMTP settings.
- * On a live host, mail() usually works out of the box.
- */
 function sendMail(string $to, string $subject, string $htmlBody): bool {
     $from    = ADMIN_EMAIL;
     $siteName = SITE_NAME;
