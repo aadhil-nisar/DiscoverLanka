@@ -1,11 +1,4 @@
 <?php
-// ============================================================
-// backend/config/email.php — Email Configuration
-// Edit ADMIN_EMAIL and SITE_NAME to match your setup
-// For SMTP (recommended), install PHPMailer via Composer:
-//   composer require phpmailer/phpmailer
-// Or use PHP's built-in mail() function (works on most hosts)
-// ============================================================
 
 define('ADMIN_EMAIL', 'aadhilnisar1616@gmail.com');   // <-- Change to your email
 define('SITE_NAME',   'DiscoverLanka');
