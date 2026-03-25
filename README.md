@@ -1,6 +1,6 @@
-# 🌿 DiscoverLanka – Fullstack Travel Planning Platform
+# DiscoverLanka – Fullstack Travel Planning Platform
 
-## 📌 Project Overview
+## Project Overview
 
 DiscoverLanka is a fullstack travel planning web application designed to help users explore Sri Lanka and generate smart, personalized travel itineraries.
 
@@ -10,9 +10,9 @@ This project is developed as a **university student project** and is currently i
 
 ---
 
-## 🌍 Key Features
+## Key Features
 
-### 🏝️ Destination Exploration
+### Destination Exploration
 
 * Explore Sri Lanka by categories:
 
@@ -25,7 +25,7 @@ This project is developed as a **university student project** and is currently i
 
 ---
 
-### 🧠 AI Smart Trip Planner
+### AI Smart Trip Planner
 
 Users can enter:
 
@@ -49,7 +49,7 @@ System generates:
 
 ---
 
-### 📅 Manual Itinerary Planner
+### Manual Itinerary Planner
 
 * Create custom travel plans manually
 * Add stops, destinations, and notes
@@ -66,7 +66,7 @@ System generates:
 
 ---
 
-### ⭐ Reviews System
+### Reviews System
 
 * View traveler reviews
 * Submit new reviews
@@ -74,7 +74,7 @@ System generates:
 
 ---
 
-### 📞 Contact & Support
+### Contact & Support
 
 * Contact form
 * Help Center (FAQ)
@@ -83,9 +83,9 @@ System generates:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
-### 🎨 Frontend
+### Frontend
 
 * HTML5
 * CSS3
@@ -95,7 +95,7 @@ System generates:
 
 ---
 
-### ⚙️ Backend
+### Backend
 
 * PHP (Core PHP)
 * REST-style API endpoints
@@ -103,7 +103,7 @@ System generates:
 
 ---
 
-### 🗄️ Database
+### Database
 
 * MySQL
 * Main tables:
@@ -114,14 +114,14 @@ System generates:
 
 ---
 
-### 🤖 AI Integration
+### AI Integration
 
 * Google Gemini API
 * Used to generate smart travel itineraries
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 discoverlanka/
 
@@ -171,7 +171,7 @@ README.md
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Payment and booking system
 * Google Maps integration
@@ -182,7 +182,7 @@ README.md
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Aadhil Nisar**  
 Fullstack project for **DiscoverLanka**  
@@ -190,7 +190,7 @@ University student project based on Sri Lanka travel discovery and trip planning
 
 ---
 
-## 📌 Note
+## Note
 
 This project is currently in development and is created for educational and demonstration purposes.
 
