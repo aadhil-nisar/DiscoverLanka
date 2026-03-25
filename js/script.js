@@ -1,7 +1,3 @@
-/* ============================================================
-   script.js — DiscoverLanka (Backend-Connected Version)
-   ============================================================ */
-
 const API_BASE = 'backend/api';
 
 async function apiPost(endpoint, body) {
