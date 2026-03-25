@@ -1,8 +1,4 @@
 <?php
-// ============================================================
-// backend/api/newsletter.php
-// POST /api/newsletter.php  → subscribe email
-// ============================================================
 
 require_once __DIR__ . '/../middleware/helpers.php';
 
