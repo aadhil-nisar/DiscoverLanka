@@ -1,7 +1,4 @@
 <?php
-// ============================================================
-// backend/config/db.php  — Database Connection
-// ============================================================
 
 define('DB_HOST', 'localhost');
 define('DB_NAME', 'discoverlanka');
