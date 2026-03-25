@@ -1,10 +1,4 @@
 <?php
-// ============================================================
-// backend/api/profile.php
-// GET  /api/profile.php          → get profile
-// POST /api/profile.php          → update profile
-// POST /api/profile.php?action=change_password
-// ============================================================
 
 require_once __DIR__ . '/../middleware/helpers.php';
 
