@@ -185,7 +185,9 @@ README.md
 ## 👨‍💻 Author
 
 Aadhil Nisar
+
 DiscoverLanka Project
+
 University Student Project
 
 ---
