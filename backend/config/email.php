@@ -1,8 +1,8 @@
 <?php
 
-define('ADMIN_EMAIL', 'aadhilnisar1616@gmail.com');   // <-- Change to your email
+define('ADMIN_EMAIL', 'aadhilnisar1616@gmail.com');
 define('SITE_NAME',   'DiscoverLanka');
-define('SITE_URL',    'http://localhost/DiscoverLanka'); // <-- Change to your URL
+define('SITE_URL',    'http://localhost/DiscoverLanka');
 
 function sendMail(string $to, string $subject, string $htmlBody): bool {
     $from    = ADMIN_EMAIL;
