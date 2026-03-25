@@ -1,8 +1,3 @@
--- ============================================================
--- DiscoverLanka Database Schema v2
--- Run this in phpMyAdmin or MySQL CLI
--- ============================================================
-
 CREATE DATABASE IF NOT EXISTS discoverlanka CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE discoverlanka;
 
