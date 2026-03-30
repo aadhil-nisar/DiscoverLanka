@@ -123,70 +123,67 @@ System generates:
 
 ## Project Structure
 
-DiscoverLanka/
+* DiscoverLanka/
+  * ai-server/
+    * .env
+    * package.json
+    * server.js
+    * server.js.bak
 
-├── ai-server/
-│ ├── .env
-│ ├── package.json
-│ ├── server.js
-│ └── server.js.bak
-│
-├── assets/
-│ └── images/
-│ └── destinations/
-│
-├── backend/
-│ ├── api/
-│ │ ├── ai-plan-trip.php
-│ │ ├── auth.php
-│ │ ├── contact.php
-│ │ ├── itineraries.php
-│ │ ├── newsletter.php
-│ │ ├── profile.php
-│ │ └── reviews.php
-│ │
-│ ├── config/
-│ │ ├── ai.php
-│ │ ├── db.php
-│ │ └── email.php
-│ │
-│ ├── middleware/
-│ │ └── helpers.php
-│ │
-│ └── database.sql
-│
-├── css/
-│ ├── auth.css
-│ ├── category.css
-│ ├── plan-trip.css
-│ ├── profile.css
-│ ├── signin.css
-│ └── style.css
-│
-├── js/
-│ ├── auth.js
-│ ├── category.js
-│ ├── plan-trip.js
-│ └── script.js
-│
-├── about.html
-├── blog.html
-├── category.html
-├── contact.html
-├── help.html
-├── index.html
-├── itinerary-planner.html
-├── places.html
-├── plan-trip.html
-├── privacy.html
-├── profile.html
-├── reviews.html
-├── signin.html
-├── terms.html
-│
-├── .gitattributes
-└── README.md
+  * assets/
+    * images/
+      * destinations/
 
+  * backend/
+    * api/
+      * ai-plan-trip.php
+      * auth.php
+      * contact.php
+      * itineraries.php
+      * newsletter.php
+      * profile.php
+      * reviews.php
+
+    * config/
+      * ai.php
+      * db.php
+      * email.php
+
+    * middleware/
+      * helpers.php
+
+    * database.sql
+
+  * css/
+    * auth.css
+    * category.css
+    * plan-trip.css
+    * profile.css
+    * signin.css
+    * style.css
+
+  * js/
+    * auth.js
+    * category.js
+    * plan-trip.js
+    * script.js
+
+  * about.html
+  * blog.html
+  * category.html
+  * contact.html
+  * help.html
+  * index.html
+  * itinerary-planner.html
+  * places.html
+  * plan-trip.html
+  * privacy.html
+  * profile.html
+  * reviews.html
+  * signin.html
+  * terms.html
+
+  * README.md
 ---
 
 ## Future Improvements
