@@ -123,51 +123,69 @@ System generates:
 
 ## Project Structure
 
-discoverlanka/
+DiscoverLanka/
 
-* index.html
-* plan-trip.html
-* itinerary-planner.html
-* review.html
-* contact.html
-* about.html
-
-css/
-
-* style.css
-* plan-trip.css
-* other styles
-
-js/
-
-* main.js
-* planner.js
-* other scripts
-
-assets/
-
-* images/
-* destinations/
-
-backend/
-
-* api/
-
-  * ai-plan-trip.php
-  * login.php
-  * register.php
-  * review.php
-
-* config/
-
-  * db.php
-  * ai.php
-
-* middleware/
-
-  * helpers.php
-
-README.md
+├── ai-server/
+│ ├── .env
+│ ├── package.json
+│ ├── server.js
+│ └── server.js.bak
+│
+├── assets/
+│ └── images/
+│ └── destinations/
+│
+├── backend/
+│ ├── api/
+│ │ ├── ai-plan-trip.php
+│ │ ├── auth.php
+│ │ ├── contact.php
+│ │ ├── itineraries.php
+│ │ ├── newsletter.php
+│ │ ├── profile.php
+│ │ └── reviews.php
+│ │
+│ ├── config/
+│ │ ├── ai.php
+│ │ ├── db.php
+│ │ └── email.php
+│ │
+│ ├── middleware/
+│ │ └── helpers.php
+│ │
+│ └── database.sql
+│
+├── css/
+│ ├── auth.css
+│ ├── category.css
+│ ├── plan-trip.css
+│ ├── profile.css
+│ ├── signin.css
+│ └── style.css
+│
+├── js/
+│ ├── auth.js
+│ ├── category.js
+│ ├── plan-trip.js
+│ └── script.js
+│
+├── about.html
+├── blog.html
+├── category.html
+├── contact.html
+├── help.html
+├── index.html
+├── itinerary-planner.html
+├── places.html
+├── plan-trip.html
+├── privacy.html
+├── profile.html
+├── reviews.html
+├── signin.html
+├── terms.html
+│
+├── .gitattributes
+└── README.md
 
 ---
 
@@ -198,5 +216,5 @@ This project is currently in development and is created for educational and demo
 
 ## 🌐 Live Frontend
 
-[https://aadhil-nisar.github.io/DiscoverLanka_Frontend/](https://aadhil-nisar.github.io/DiscoverLanka_Frontend/)
+www.discoverlanka.live
 
